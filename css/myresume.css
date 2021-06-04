@@ -34,3 +34,8 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     margin-top: 4rem;
 }
 
+.taipei-culture .taipei-culture-text {
+    width: 30%;
+    margin-top: 4rem;
+    position: absolute;
+}
