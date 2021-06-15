@@ -55,7 +55,7 @@ body {
     background-size: cover;
       }
   
-#gotop {
+gotop {
     display: none;
     position: fixed;
     right: 20px;
