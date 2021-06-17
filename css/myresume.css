@@ -1,11 +1,12 @@
-title {
-  font-family: 'Merienda', cursive;
-}
 body {
   font-family: 'Merienda', cursive;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: 'Merienda', cursive;
+}
+
+h1 class {
   font-family: 'Merienda', cursive;
 }
 
